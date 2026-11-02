@@ -1,0 +1,145 @@
+{
+ "last_scheduled_dubai": "2026-11-04T04:00:00",
+ "posted_or_queued": [
+  {
+   "id": "14",
+   "kind": "original"
+  },
+  {
+   "id": "03",
+   "kind": "original"
+  },
+  {
+   "id": "10",
+   "kind": "original"
+  },
+  {
+   "id": "02",
+   "kind": "original"
+  },
+  {
+   "id": "11",
+   "kind": "original"
+  },
+  {
+   "id": "06",
+   "kind": "original"
+  },
+  {
+   "id": "05",
+   "kind": "original"
+  },
+  {
+   "id": "07",
+   "kind": "original"
+  },
+  {
+   "id": "16",
+   "kind": "original"
+  },
+  {
+   "id": "09",
+   "kind": "original"
+  },
+  {
+   "id": "18",
+   "kind": "original"
+  },
+  {
+   "id": "17",
+   "kind": "original"
+  },
+  {
+   "id": "04",
+   "kind": "original"
+  },
+  {
+   "id": "35",
+   "kind": "original"
+  },
+  {
+   "id": "33",
+   "kind": "original"
+  },
+  {
+   "id": "20",
+   "kind": "original"
+  },
+  {
+   "id": "21",
+   "kind": "original"
+  },
+  {
+   "id": "22",
+   "kind": "original"
+  },
+  {
+   "id": "23",
+   "kind": "original"
+  },
+  {
+   "id": "24",
+   "kind": "original"
+  },
+  {
+   "id": "25",
+   "kind": "original"
+  },
+  {
+   "id": "26",
+   "kind": "original"
+  },
+  {
+   "id": "28",
+   "kind": "original"
+  },
+  {
+   "id": "29",
+   "kind": "original"
+  },
+  {
+   "id": "30",
+   "kind": "original"
+  },
+  {
+   "id": "31",
+   "kind": "original"
+  },
+  {
+   "id": "32",
+   "kind": "original"
+  },
+  {
+   "id": "34",
+   "kind": "original"
+  },
+  {
+   "id": "19",
+   "kind": "original"
+  },
+  {
+   "id": "08",
+   "kind": "original"
+  },
+  {
+   "id": "ap-001-caption-mistakes",
+   "kind": "auto",
+   "topic": "3 caption mistakes killing your clips"
+  },
+  {
+   "id": "ap-002-which-hook-wins",
+   "kind": "auto",
+   "topic": "Which hook wins (context vs punchline, slow zoom vs hard cut)"
+  },
+  {
+   "id": "ap-003-clipping-myths",
+   "kind": "auto",
+   "topic": "longer clips = more watch time; need expensive software"
+  },
+  {
+   "id": "ap-004-numbers-to-know",
+   "kind": "auto",
+   "topic": "3 sec hook, 70% retention, 85% watch on mute"
+  }
+ ]
+}
