@@ -1,5 +1,5 @@
 {
- "last_scheduled_dubai": "2026-11-06T19:30:00",
+ "last_scheduled_dubai": "2026-11-07T19:30:00",
  "posted_or_queued": [
   {
    "id": "14",
@@ -140,6 +140,46 @@
    "id": "ap-004-numbers-to-know",
    "kind": "auto",
    "topic": "3 sec hook, 70% retention, 85% watch on mute"
+  },
+  {
+   "id": "ap-005-find-clip-moments",
+   "kind": "auto",
+   "topic": "Where the best clips hide"
+  },
+  {
+   "id": "ap-006-editing-workflow-myths",
+   "kind": "auto",
+   "topic": "Editing habits wasting your hours"
+  },
+  {
+   "id": "ap-007-which-cut-keeps-them",
+   "kind": "auto",
+   "topic": "Which cut keeps them watching?"
+  },
+  {
+   "id": "ap-008-clipper-math",
+   "kind": "auto",
+   "topic": "Clipper math nobody teaches you"
+  },
+  {
+   "id": "ap-009-clip-faster",
+   "kind": "auto",
+   "topic": "Clip twice as fast with this"
+  },
+  {
+   "id": "ap-010-growth-myths",
+   "kind": "auto",
+   "topic": "Growth myths keeping you stuck"
+  },
+  {
+   "id": "ap-011-which-ending-wins",
+   "kind": "auto",
+   "topic": "Which ending gets the rewatch?"
+  },
+  {
+   "id": "ap-012-clip-length-guide",
+   "kind": "auto",
+   "topic": "How long should your clip be?"
   }
  ]
 }
