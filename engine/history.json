@@ -1,5 +1,5 @@
 {
- "last_scheduled_dubai": "2026-11-06T19:30:00",
+ "last_scheduled_dubai": "2026-11-08T19:30:00",
  "posted_or_queued": [
   {
    "id": "14",
@@ -140,6 +140,46 @@
    "id": "ap-004-numbers-to-know",
    "kind": "auto",
    "topic": "3 sec hook, 70% retention, 85% watch on mute"
+  },
+  {
+   "id": "ap-005-muddy-audio-fixes",
+   "kind": "auto",
+   "topic": "Fix muddy audio in 3 steps"
+  },
+  {
+   "id": "ap-006-editing-myths",
+   "kind": "auto",
+   "topic": "Editing myths wasting your time"
+  },
+  {
+   "id": "ap-007-crop-or-cut",
+   "kind": "auto",
+   "topic": "Which vertical crop wins?"
+  },
+  {
+   "id": "ap-008-pacing-rules",
+   "kind": "auto",
+   "topic": "Pacing rules for faster clips"
+  },
+  {
+   "id": "ap-009-land-first-client",
+   "kind": "auto",
+   "topic": "Land your first clipping client"
+  },
+  {
+   "id": "ap-010-pricing-myths",
+   "kind": "auto",
+   "topic": "Clipper pricing myths"
+  },
+  {
+   "id": "ap-011-loop-or-cta",
+   "kind": "auto",
+   "topic": "How should your clip end?"
+  },
+  {
+   "id": "ap-012-export-settings",
+   "kind": "auto",
+   "topic": "Export settings for sharp Reels"
   }
  ]
 }
