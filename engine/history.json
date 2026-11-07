@@ -1,5 +1,5 @@
 {
- "last_scheduled_dubai": "2026-11-06T19:30:00",
+ "last_scheduled_dubai": "2026-11-09T19:30:00",
  "posted_or_queued": [
   {
    "id": "14",
@@ -140,6 +140,46 @@
    "id": "ap-004-numbers-to-know",
    "kind": "auto",
    "topic": "3 sec hook, 70% retention, 85% watch on mute"
+  },
+  {
+   "id": "ap-005-clip-worthy-signs",
+   "kind": "auto",
+   "topic": "3 signs a moment is clip-worthy (emotion, no context needed, quotable line)"
+  },
+  {
+   "id": "ap-006-reach-myths",
+   "kind": "auto",
+   "topic": "trending audio saves weak clip; more hashtags = more reach"
+  },
+  {
+   "id": "ap-007-caption-face-off",
+   "kind": "auto",
+   "topic": "raw vs fixed auto captions; captions on face vs under chin"
+  },
+  {
+   "id": "ap-008-episode-math",
+   "kind": "auto",
+   "topic": "10 clips per episode, 1-2 pop, 30 days before judging"
+  },
+  {
+   "id": "ap-009-podcast-hook-formulas",
+   "kind": "auto",
+   "topic": "start with answer, open on reaction, bold claim first"
+  },
+  {
+   "id": "ap-010-clipper-life-myths",
+   "kind": "auto",
+   "topic": "easy money; need followers for clients; AI does it all"
+  },
+  {
+   "id": "ap-011-edit-face-off",
+   "kind": "auto",
+   "topic": "static vs punch-in; cover with vs without title"
+  },
+  {
+   "id": "ap-012-caption-cheat-sheet",
+   "kind": "auto",
+   "topic": "3 words per line, 2 colors max, 1 highlight word"
   }
  ]
 }
