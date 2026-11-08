@@ -1,5 +1,5 @@
 {
- "last_scheduled_dubai": "2026-11-09T19:30:00",
+ "last_scheduled_dubai": "2026-11-10T19:30:00",
  "posted_or_queued": [
   {
    "id": "14",
@@ -180,6 +180,46 @@
    "id": "ap-012-caption-cheat-sheet",
    "kind": "auto",
    "topic": "3 words per line, 2 colors max, 1 highlight word"
+  },
+  {
+   "id": "ap-013-clip-ending-tricks",
+   "kind": "auto",
+   "topic": "end a clip: loop to start, cut mid-laugh, end on a question"
+  },
+  {
+   "id": "ap-014-posting-myths",
+   "kind": "auto",
+   "topic": "posting time beats hook; delete flops"
+  },
+  {
+   "id": "ap-015-crop-face-off",
+   "kind": "auto",
+   "topic": "wide vs tight crop; split screen vs cut to speaker"
+  },
+  {
+   "id": "ap-016-one-clip-rules",
+   "kind": "auto",
+   "topic": "1 sec hook, 1 idea per clip, write 3 hooks"
+  },
+  {
+   "id": "ap-017-fix-podcast-audio",
+   "kind": "auto",
+   "topic": "denoise, level voices, cut dead air"
+  },
+  {
+   "id": "ap-018-editing-myths",
+   "kind": "auto",
+   "topic": "more effects = retention; new style every clip"
+  },
+  {
+   "id": "ap-019-title-face-off",
+   "kind": "auto",
+   "topic": "summary vs tease title; long vs 5 words max"
+  },
+  {
+   "id": "ap-020-episode-workflow",
+   "kind": "auto",
+   "topic": "2x scan, 10 timestamps, best 3 first"
   }
  ]
 }
