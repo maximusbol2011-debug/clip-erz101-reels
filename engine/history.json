@@ -1,5 +1,5 @@
 {
- "last_scheduled_dubai": "2026-11-10T19:30:00",
+ "last_scheduled_dubai": "2026-11-11T19:30:00",
  "posted_or_queued": [
   {
    "id": "14",
@@ -220,6 +220,46 @@
    "id": "ap-020-episode-workflow",
    "kind": "auto",
    "topic": "2x scan, 10 timestamps, best 3 first"
+  },
+  {
+   "id": "ap-021-clip-too-long",
+   "kind": "auto",
+   "topic": "too long: setup over 3s, second point starts, you'd skip it"
+  },
+  {
+   "id": "ap-022-stream-clip-myths",
+   "kind": "auto",
+   "topic": "big streamer clips go viral alone; copy trending clip exactly"
+  },
+  {
+   "id": "ap-023-pacing-face-off",
+   "kind": "auto",
+   "topic": "keep pauses vs cut pauses keep breaths; jump cut every word vs sentence ends"
+  },
+  {
+   "id": "ap-024-stream-clip-rules",
+   "kind": "auto",
+   "topic": "stream clips: under 60s, post within 2 hrs, 1 face on screen"
+  },
+  {
+   "id": "ap-025-first-client",
+   "kind": "auto",
+   "topic": "first client: 3 sample clips, show numbers, follow up once"
+  },
+  {
+   "id": "ap-026-growth-myths",
+   "kind": "auto",
+   "topic": "every platform day one; one viral clip sets you up"
+  },
+  {
+   "id": "ap-027-broll-face-off",
+   "kind": "auto",
+   "topic": "stock vs literal b-roll; emojis everywhere vs one on key word"
+  },
+  {
+   "id": "ap-028-testing-math",
+   "kind": "auto",
+   "topic": "48 hrs before judging, 1 change per test, 5 clips per round"
   }
  ]
 }
