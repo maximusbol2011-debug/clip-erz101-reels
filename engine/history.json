@@ -1,265 +1,320 @@
 {
- "last_scheduled_dubai": "2026-11-11T19:30:00",
- "posted_or_queued": [
-  {
-   "id": "14",
-   "kind": "original"
-  },
-  {
-   "id": "03",
-   "kind": "original"
-  },
-  {
-   "id": "10",
-   "kind": "original"
-  },
-  {
-   "id": "02",
-   "kind": "original"
-  },
-  {
-   "id": "11",
-   "kind": "original"
-  },
-  {
-   "id": "06",
-   "kind": "original"
-  },
-  {
-   "id": "05",
-   "kind": "original"
-  },
-  {
-   "id": "07",
-   "kind": "original"
-  },
-  {
-   "id": "16",
-   "kind": "original"
-  },
-  {
-   "id": "09",
-   "kind": "original"
-  },
-  {
-   "id": "18",
-   "kind": "original"
-  },
-  {
-   "id": "17",
-   "kind": "original"
-  },
-  {
-   "id": "04",
-   "kind": "original"
-  },
-  {
-   "id": "35",
-   "kind": "original"
-  },
-  {
-   "id": "33",
-   "kind": "original"
-  },
-  {
-   "id": "20",
-   "kind": "original"
-  },
-  {
-   "id": "21",
-   "kind": "original"
-  },
-  {
-   "id": "22",
-   "kind": "original"
-  },
-  {
-   "id": "23",
-   "kind": "original"
-  },
-  {
-   "id": "24",
-   "kind": "original"
-  },
-  {
-   "id": "25",
-   "kind": "original"
-  },
-  {
-   "id": "26",
-   "kind": "original"
-  },
-  {
-   "id": "28",
-   "kind": "original"
-  },
-  {
-   "id": "29",
-   "kind": "original"
-  },
-  {
-   "id": "30",
-   "kind": "original"
-  },
-  {
-   "id": "31",
-   "kind": "original"
-  },
-  {
-   "id": "32",
-   "kind": "original"
-  },
-  {
-   "id": "34",
-   "kind": "original"
-  },
-  {
-   "id": "19",
-   "kind": "original"
-  },
-  {
-   "id": "08",
-   "kind": "original"
-  },
-  {
-   "id": "ap-001-caption-mistakes",
-   "kind": "auto",
-   "topic": "3 caption mistakes killing your clips"
-  },
-  {
-   "id": "ap-002-which-hook-wins",
-   "kind": "auto",
-   "topic": "Which hook wins (context vs punchline, slow zoom vs hard cut)"
-  },
-  {
-   "id": "ap-003-clipping-myths",
-   "kind": "auto",
-   "topic": "longer clips = more watch time; need expensive software"
-  },
-  {
-   "id": "ap-004-numbers-to-know",
-   "kind": "auto",
-   "topic": "3 sec hook, 70% retention, 85% watch on mute"
-  },
-  {
-   "id": "ap-005-clip-worthy-signs",
-   "kind": "auto",
-   "topic": "3 signs a moment is clip-worthy (emotion, no context needed, quotable line)"
-  },
-  {
-   "id": "ap-006-reach-myths",
-   "kind": "auto",
-   "topic": "trending audio saves weak clip; more hashtags = more reach"
-  },
-  {
-   "id": "ap-007-caption-face-off",
-   "kind": "auto",
-   "topic": "raw vs fixed auto captions; captions on face vs under chin"
-  },
-  {
-   "id": "ap-008-episode-math",
-   "kind": "auto",
-   "topic": "10 clips per episode, 1-2 pop, 30 days before judging"
-  },
-  {
-   "id": "ap-009-podcast-hook-formulas",
-   "kind": "auto",
-   "topic": "start with answer, open on reaction, bold claim first"
-  },
-  {
-   "id": "ap-010-clipper-life-myths",
-   "kind": "auto",
-   "topic": "easy money; need followers for clients; AI does it all"
-  },
-  {
-   "id": "ap-011-edit-face-off",
-   "kind": "auto",
-   "topic": "static vs punch-in; cover with vs without title"
-  },
-  {
-   "id": "ap-012-caption-cheat-sheet",
-   "kind": "auto",
-   "topic": "3 words per line, 2 colors max, 1 highlight word"
-  },
-  {
-   "id": "ap-013-clip-ending-tricks",
-   "kind": "auto",
-   "topic": "end a clip: loop to start, cut mid-laugh, end on a question"
-  },
-  {
-   "id": "ap-014-posting-myths",
-   "kind": "auto",
-   "topic": "posting time beats hook; delete flops"
-  },
-  {
-   "id": "ap-015-crop-face-off",
-   "kind": "auto",
-   "topic": "wide vs tight crop; split screen vs cut to speaker"
-  },
-  {
-   "id": "ap-016-one-clip-rules",
-   "kind": "auto",
-   "topic": "1 sec hook, 1 idea per clip, write 3 hooks"
-  },
-  {
-   "id": "ap-017-fix-podcast-audio",
-   "kind": "auto",
-   "topic": "denoise, level voices, cut dead air"
-  },
-  {
-   "id": "ap-018-editing-myths",
-   "kind": "auto",
-   "topic": "more effects = retention; new style every clip"
-  },
-  {
-   "id": "ap-019-title-face-off",
-   "kind": "auto",
-   "topic": "summary vs tease title; long vs 5 words max"
-  },
-  {
-   "id": "ap-020-episode-workflow",
-   "kind": "auto",
-   "topic": "2x scan, 10 timestamps, best 3 first"
-  },
-  {
-   "id": "ap-021-clip-too-long",
-   "kind": "auto",
-   "topic": "too long: setup over 3s, second point starts, you'd skip it"
-  },
-  {
-   "id": "ap-022-stream-clip-myths",
-   "kind": "auto",
-   "topic": "big streamer clips go viral alone; copy trending clip exactly"
-  },
-  {
-   "id": "ap-023-pacing-face-off",
-   "kind": "auto",
-   "topic": "keep pauses vs cut pauses keep breaths; jump cut every word vs sentence ends"
-  },
-  {
-   "id": "ap-024-stream-clip-rules",
-   "kind": "auto",
-   "topic": "stream clips: under 60s, post within 2 hrs, 1 face on screen"
-  },
-  {
-   "id": "ap-025-first-client",
-   "kind": "auto",
-   "topic": "first client: 3 sample clips, show numbers, follow up once"
-  },
-  {
-   "id": "ap-026-growth-myths",
-   "kind": "auto",
-   "topic": "every platform day one; one viral clip sets you up"
-  },
-  {
-   "id": "ap-027-broll-face-off",
-   "kind": "auto",
-   "topic": "stock vs literal b-roll; emojis everywhere vs one on key word"
-  },
-  {
-   "id": "ap-028-testing-math",
-   "kind": "auto",
-   "topic": "48 hrs before judging, 1 change per test, 5 clips per round"
-  }
- ]
+  "last_scheduled_dubai": "2026-11-11T19:30:00",
+  "posted_or_queued": [
+    {
+      "id": "14",
+      "kind": "original"
+    },
+    {
+      "id": "03",
+      "kind": "original"
+    },
+    {
+      "id": "10",
+      "kind": "original"
+    },
+    {
+      "id": "02",
+      "kind": "original"
+    },
+    {
+      "id": "11",
+      "kind": "original"
+    },
+    {
+      "id": "06",
+      "kind": "original"
+    },
+    {
+      "id": "05",
+      "kind": "original"
+    },
+    {
+      "id": "07",
+      "kind": "original"
+    },
+    {
+      "id": "16",
+      "kind": "original"
+    },
+    {
+      "id": "09",
+      "kind": "original"
+    },
+    {
+      "id": "18",
+      "kind": "original"
+    },
+    {
+      "id": "17",
+      "kind": "original"
+    },
+    {
+      "id": "04",
+      "kind": "original"
+    },
+    {
+      "id": "35",
+      "kind": "original"
+    },
+    {
+      "id": "33",
+      "kind": "original"
+    },
+    {
+      "id": "20",
+      "kind": "original"
+    },
+    {
+      "id": "21",
+      "kind": "original"
+    },
+    {
+      "id": "22",
+      "kind": "original"
+    },
+    {
+      "id": "23",
+      "kind": "original"
+    },
+    {
+      "id": "24",
+      "kind": "original"
+    },
+    {
+      "id": "25",
+      "kind": "original"
+    },
+    {
+      "id": "26",
+      "kind": "original"
+    },
+    {
+      "id": "28",
+      "kind": "original"
+    },
+    {
+      "id": "29",
+      "kind": "original"
+    },
+    {
+      "id": "30",
+      "kind": "original"
+    },
+    {
+      "id": "31",
+      "kind": "original"
+    },
+    {
+      "id": "32",
+      "kind": "original"
+    },
+    {
+      "id": "34",
+      "kind": "original"
+    },
+    {
+      "id": "19",
+      "kind": "original"
+    },
+    {
+      "id": "08",
+      "kind": "original"
+    },
+    {
+      "id": "ap-001-caption-mistakes",
+      "kind": "auto",
+      "topic": "3 caption mistakes killing your clips"
+    },
+    {
+      "id": "ap-002-which-hook-wins",
+      "kind": "auto",
+      "topic": "Which hook wins (context vs punchline, slow zoom vs hard cut)"
+    },
+    {
+      "id": "ap-003-clipping-myths",
+      "kind": "auto",
+      "topic": "longer clips = more watch time; need expensive software"
+    },
+    {
+      "id": "ap-004-numbers-to-know",
+      "kind": "auto",
+      "topic": "3 sec hook, 70% retention, 85% watch on mute"
+    },
+    {
+      "id": "ap-005-clip-worthy-signs",
+      "kind": "auto",
+      "topic": "3 signs a moment is clip-worthy (emotion, no context needed, quotable line)"
+    },
+    {
+      "id": "ap-006-reach-myths",
+      "kind": "auto",
+      "topic": "trending audio saves weak clip; more hashtags = more reach"
+    },
+    {
+      "id": "ap-007-caption-face-off",
+      "kind": "auto",
+      "topic": "raw vs fixed auto captions; captions on face vs under chin"
+    },
+    {
+      "id": "ap-008-episode-math",
+      "kind": "auto",
+      "topic": "10 clips per episode, 1-2 pop, 30 days before judging"
+    },
+    {
+      "id": "ap-009-podcast-hook-formulas",
+      "kind": "auto",
+      "topic": "start with answer, open on reaction, bold claim first"
+    },
+    {
+      "id": "ap-010-clipper-life-myths",
+      "kind": "auto",
+      "topic": "easy money; need followers for clients; AI does it all"
+    },
+    {
+      "id": "ap-011-edit-face-off",
+      "kind": "auto",
+      "topic": "static vs punch-in; cover with vs without title"
+    },
+    {
+      "id": "ap-012-caption-cheat-sheet",
+      "kind": "auto",
+      "topic": "3 words per line, 2 colors max, 1 highlight word"
+    },
+    {
+      "id": "ap-013-clip-ending-tricks",
+      "kind": "auto",
+      "topic": "end a clip: loop to start, cut mid-laugh, end on a question"
+    },
+    {
+      "id": "ap-014-posting-myths",
+      "kind": "auto",
+      "topic": "posting time beats hook; delete flops"
+    },
+    {
+      "id": "ap-015-crop-face-off",
+      "kind": "auto",
+      "topic": "wide vs tight crop; split screen vs cut to speaker"
+    },
+    {
+      "id": "ap-016-one-clip-rules",
+      "kind": "auto",
+      "topic": "1 sec hook, 1 idea per clip, write 3 hooks"
+    },
+    {
+      "id": "ap-017-fix-podcast-audio",
+      "kind": "auto",
+      "topic": "denoise, level voices, cut dead air"
+    },
+    {
+      "id": "ap-018-editing-myths",
+      "kind": "auto",
+      "topic": "more effects = retention; new style every clip"
+    },
+    {
+      "id": "ap-019-title-face-off",
+      "kind": "auto",
+      "topic": "summary vs tease title; long vs 5 words max"
+    },
+    {
+      "id": "ap-020-episode-workflow",
+      "kind": "auto",
+      "topic": "2x scan, 10 timestamps, best 3 first"
+    },
+    {
+      "id": "ap-021-clip-too-long",
+      "kind": "auto",
+      "topic": "too long: setup over 3s, second point starts, you'd skip it"
+    },
+    {
+      "id": "ap-022-stream-clip-myths",
+      "kind": "auto",
+      "topic": "big streamer clips go viral alone; copy trending clip exactly"
+    },
+    {
+      "id": "ap-023-pacing-face-off",
+      "kind": "auto",
+      "topic": "keep pauses vs cut pauses keep breaths; jump cut every word vs sentence ends"
+    },
+    {
+      "id": "ap-024-stream-clip-rules",
+      "kind": "auto",
+      "topic": "stream clips: under 60s, post within 2 hrs, 1 face on screen"
+    },
+    {
+      "id": "ap-025-first-client",
+      "kind": "auto",
+      "topic": "first client: 3 sample clips, show numbers, follow up once"
+    },
+    {
+      "id": "ap-026-growth-myths",
+      "kind": "auto",
+      "topic": "every platform day one; one viral clip sets you up"
+    },
+    {
+      "id": "ap-027-broll-face-off",
+      "kind": "auto",
+      "topic": "stock vs literal b-roll; emojis everywhere vs one on key word"
+    },
+    {
+      "id": "ap-028-testing-math",
+      "kind": "auto",
+      "topic": "48 hrs before judging, 1 change per test, 5 clips per round"
+    },
+    {
+      "id": "ap-029-before-you-export",
+      "kind": "auto",
+      "topic": "export check: safe zone captions, no audio peaks, no black first frame"
+    },
+    {
+      "id": "ap-030-client-pay-myths",
+      "kind": "auto",
+      "topic": "pricing myths: hourly rate; free work wins clients"
+    },
+    {
+      "id": "ap-031-first-frame-face-off",
+      "kind": "auto",
+      "topic": "wide vs mid-sentence close-up first frame; logo intro vs straight in"
+    },
+    {
+      "id": "ap-032-clipping-week-math",
+      "kind": "auto",
+      "topic": "week: 3 clips a day, 1 hr stats, 1 day off"
+    },
+    {
+      "id": "ap-033-find-clips-faster",
+      "kind": "auto",
+      "topic": "find clips faster: transcript, search laughs, comment timestamps"
+    },
+    {
+      "id": "ap-034-hook-myths",
+      "kind": "auto",
+      "topic": "hook myths: clickbait always wins; hooks must be loud"
+    },
+    {
+      "id": "ap-035-zoom-music-face-off",
+      "kind": "auto",
+      "topic": "slow zoom all clip vs zoom on punchline; loud vs quiet music bed"
+    },
+    {
+      "id": "ap-036-raise-your-prices",
+      "kind": "auto",
+      "topic": "raise prices: more requests than time, reorders, results"
+    },
+    {
+      "id": "ap-037-analytics-myths",
+      "kind": "auto",
+      "topic": "analytics myths: views only number; low views = bad clip"
+    },
+    {
+      "id": "ap-038-portfolio-rules",
+      "kind": "auto",
+      "topic": "portfolio: 5 best clips, 1 niche, 1 link"
+    },
+    {
+      "id": "ap-039-repost-face-off",
+      "kind": "auto",
+      "topic": "same caption everywhere vs rewrite; repost flop vs new hook"
+    }
+  ]
 }
