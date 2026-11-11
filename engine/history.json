@@ -1,5 +1,5 @@
 {
-  "last_scheduled_dubai": "2026-11-12T19:30:00",
+  "last_scheduled_dubai": "2026-11-13T19:30:00",
   "posted_or_queued": [
     {
       "id": "14",
@@ -315,6 +315,66 @@
       "id": "ap-039-repost-face-off",
       "kind": "auto",
       "topic": "same caption everywhere vs rewrite; repost flop vs new hook"
+    },
+    {
+      "id": "ap-040-comments-to-clips",
+      "kind": "auto",
+      "topic": "comments as clip ideas: pin a question, reply with a clip, steal their words"
+    },
+    {
+      "id": "ap-041-niche-myths",
+      "kind": "auto",
+      "topic": "niche myths: clip any viral creator; niche means fewer clients"
+    },
+    {
+      "id": "ap-042-text-hook-face-off",
+      "kind": "auto",
+      "topic": "text over vs above face; plain white vs outlined text"
+    },
+    {
+      "id": "ap-043-after-you-post-math",
+      "kind": "auto",
+      "topic": "after posting: 60 min replying, 1 story share, 3 pinned clips"
+    },
+    {
+      "id": "ap-044-clip-library",
+      "kind": "auto",
+      "topic": "clip library: name by guest+topic, hook swipe file, archive raw 30 days"
+    },
+    {
+      "id": "ap-045-burnout-myths",
+      "kind": "auto",
+      "topic": "hustle myths: 12 hr days = growth; one week off kills account"
+    },
+    {
+      "id": "ap-046-sound-color-face-off",
+      "kind": "auto",
+      "topic": "whoosh every cut vs one hit on punchline; heavy filter vs natural skin"
+    },
+    {
+      "id": "ap-047-clip-audio-math",
+      "kind": "auto",
+      "topic": "audio: -14 LUFS, -1 dB peaks, music 20% under voice"
+    },
+    {
+      "id": "ap-048-pitch-dm",
+      "kind": "auto",
+      "topic": "pitch DM: open with their clip, one result, one clear offer"
+    },
+    {
+      "id": "ap-049-repost-credit-myths",
+      "kind": "auto",
+      "topic": "repost myths: credit is enough; other-app watermarks don't matter"
+    },
+    {
+      "id": "ap-050-speaker-caption-face-off",
+      "kind": "auto",
+      "topic": "speaker name on screen vs none; sentence blocks vs word-by-word captions"
+    },
+    {
+      "id": "ap-051-keep-clients-math",
+      "kind": "auto",
+      "topic": "keep clients: 24 hr replies, 1 monthly report, 2 revision rounds"
     }
   ]
 }
