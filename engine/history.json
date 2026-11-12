@@ -1,5 +1,5 @@
 {
-  "last_scheduled_dubai": "2026-11-13T19:30:00",
+  "last_scheduled_dubai": "2026-11-14T19:30:00",
   "posted_or_queued": [
     {
       "id": "14",
@@ -375,6 +375,72 @@
       "id": "ap-051-keep-clients-math",
       "kind": "auto",
       "topic": "keep clients: 24 hr replies, 1 monthly report, 2 revision rounds"
+    },
+    {
+      "id": "ap-052-vertical-reframe",
+      "kind": "auto",
+      "topic": "vertical reframe: eyes top third, follow speaker, room for captions",
+      "music": ""
+    },
+    {
+      "id": "ap-053-retention-myths",
+      "kind": "auto",
+      "topic": "retention myths: viewers want setup; high views = high retention",
+      "music": ""
+    },
+    {
+      "id": "ap-054-workflow-face-off",
+      "kind": "auto",
+      "topic": "one clip at a time vs batch cut/caption; rough cut first vs perfect each cut",
+      "music": ""
+    },
+    {
+      "id": "ap-055-growth-reality-math",
+      "kind": "auto",
+      "topic": "growth: 90 days before judging, ~100 clips to find style, 1 in 10 pops",
+      "music": ""
+    },
+    {
+      "id": "ap-056-stream-moments",
+      "kind": "auto",
+      "topic": "stream moments to clip: big wins/fails, chat reactions, surprise guests",
+      "music": ""
+    },
+    {
+      "id": "ap-057-speed-myths",
+      "kind": "auto",
+      "topic": "speed myths: faster cuts always better; big voice speed-up",
+      "music": ""
+    },
+    {
+      "id": "ap-058-reaction-face-off",
+      "kind": "auto",
+      "topic": "show listener reaction vs speaker only; one continuous moment vs stitched lines",
+      "music": ""
+    },
+    {
+      "id": "ap-059-client-first-week",
+      "kind": "auto",
+      "topic": "client first week: their top 3 clips, style guide, posting schedule",
+      "music": ""
+    },
+    {
+      "id": "ap-060-export-settings",
+      "kind": "auto",
+      "topic": "export: full HD 1080x1920, 9:16, 30 fps",
+      "music": ""
+    },
+    {
+      "id": "ap-061-follower-myths",
+      "kind": "auto",
+      "topic": "follower myths: viral views = followers; bought followers look legit",
+      "music": ""
+    },
+    {
+      "id": "ap-062-quality-face-off",
+      "kind": "auto",
+      "topic": "high-quality upload on vs default; screen record vs download VOD",
+      "music": ""
     }
   ]
 }
