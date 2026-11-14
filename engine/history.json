@@ -441,6 +441,101 @@
       "kind": "auto",
       "topic": "high-quality upload on vs default; screen record vs download VOD",
       "music": ""
+    },
+    {
+      "id": "ap-063-hook-rewrite",
+      "kind": "auto",
+      "topic": "Fix a weak hook in 3 steps: Cut the warm-up words; Lead with the conflict; Talk to one viewer"
+    },
+    {
+      "id": "ap-064-music-myths",
+      "kind": "auto",
+      "topic": "Music myths that mute your clips: Every trending song works on any account.; Music should play the whole clip."
+    },
+    {
+      "id": "ap-065-caption-font-face-off",
+      "kind": "auto",
+      "topic": "Which caption reads faster?: Bold blocky font vs Thin script font; Centered captions vs Left aligned captions"
+    },
+    {
+      "id": "ap-066-safe-zone-math",
+      "kind": "auto",
+      "topic": "Safe zone rules for Reels: Bottom 20% keep captions out; Right edge leave it clear; Top 10% no key text"
+    },
+    {
+      "id": "ap-067-long-story-cut",
+      "kind": "auto",
+      "topic": "Clip a long story in 3 moves: Cut the backstory; Keep the turn; End on the punchline"
+    },
+    {
+      "id": "ap-068-podcast-clip-myths",
+      "kind": "auto",
+      "topic": "Podcast clip myths holding you back: Only famous guests get views.; Only funny clips go viral."
+    },
+    {
+      "id": "ap-069-posting-plan-face-off",
+      "kind": "auto",
+      "topic": "Which posting plan grows faster?: One clip every day vs Seven clips every Sunday; Same times each day vs Random times each day"
+    },
+    {
+      "id": "ap-070-clip-time-budget",
+      "kind": "auto",
+      "topic": "Time budget for one clip: 10 min find the moment; 20 min cut and caption; 5 min title and post"
+    },
+    {
+      "id": "ap-071-fast-clipper-habits",
+      "kind": "auto",
+      "topic": "3 habits of fast clippers: Learn the shortcuts; Save caption presets; One folder per client"
+    },
+    {
+      "id": "ap-072-ai-tool-myths",
+      "kind": "auto",
+      "topic": "AI clipping tool myths: AI picks your best moments.; Auto reframe is always right."
+    },
+    {
+      "id": "ap-073-pro-edit-face-off",
+      "kind": "auto",
+      "topic": "Which edit looks more pro?: Color match both cameras vs Leave the footage raw; Hard cut between speakers vs Crossfade between speakers"
+    },
+    {
+      "id": "ap-074-outreach-math",
+      "kind": "auto",
+      "topic": "Client outreach rules of thumb: 10 pitches a day; 2 days before a follow up; 1 clip made just for them"
+    },
+    {
+      "id": "ap-075-highlight-words",
+      "kind": "auto",
+      "topic": "3 caption words worth highlighting: Numbers; Names; Emotion words"
+    },
+    {
+      "id": "ap-076-client-myths",
+      "kind": "auto",
+      "topic": "Client myths new clippers believe: More clips a month makes clients happier.; Big clients only hire experts."
+    },
+    {
+      "id": "ap-077-pricing-face-off",
+      "kind": "auto",
+      "topic": "Which pricing pays you better?: Monthly package vs Price per clip; Deposit up front vs Pay after delivery"
+    },
+    {
+      "id": "ap-078-caption-copy-math",
+      "kind": "auto",
+      "topic": "Post caption rules of thumb: 125 characters shown first; 1 line hook in the caption; 1 clear question"
+    },
+    {
+      "id": "ap-079-sunday-prep",
+      "kind": "auto",
+      "topic": "Prep your clipping week on Sunday: Pick the episodes; Load your templates; Schedule the posts"
+    },
+    {
+      "id": "ap-080-engagement-myths",
+      "kind": "auto",
+      "topic": "Engagement myths killing your reach: Likes matter most.; Asking for comments is cringe."
+    },
+    {
+      "id": "ap-081-reply-face-off",
+      "kind": "auto",
+      "topic": "Which comment reply grows you?: Reply with text vs Reply with a video; Pin your best comment vs Leave nothing pinned"
     }
   ]
 }
