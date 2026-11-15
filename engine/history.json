@@ -441,6 +441,84 @@
       "kind": "auto",
       "topic": "high-quality upload on vs default; screen record vs download VOD",
       "music": ""
+    },
+    {
+      "id": "ap-063-cover-rules",
+      "kind": "auto",
+      "topic": "Reel covers that actually get taps: Big face, real emotion; Three words max; High contrast text",
+      "music": "",
+      "status": "rendered_not_scheduled"
+    },
+    {
+      "id": "ap-064-collab-myths",
+      "kind": "auto",
+      "topic": "Collab myths keeping clippers small: Collabs only help the small account.; Any big creator is a good collab.",
+      "music": "",
+      "status": "rendered_not_scheduled"
+    },
+    {
+      "id": "ap-065-format-face-off",
+      "kind": "auto",
+      "topic": "Which upload format wins?: Wide clip with blur bars vs Full vertical reframe; Post three clips at once vs Spread them through the day",
+      "music": "",
+      "status": "rendered_not_scheduled"
+    },
+    {
+      "id": "ap-066-first-month-math",
+      "kind": "auto",
+      "topic": "Your first clipping month, in numbers: 1 niche to start; 30 clips in month one; 5 pitches a week",
+      "music": "",
+      "status": "rendered_not_scheduled"
+    },
+    {
+      "id": "ap-067-interview-clips",
+      "kind": "auto",
+      "topic": "Clip interviews like a pro: Trim long questions; Keep the guest's reaction; Put the question on screen",
+      "music": "",
+      "status": "rendered_not_scheduled"
+    },
+    {
+      "id": "ap-068-permission-myths",
+      "kind": "auto",
+      "topic": "Clipping permission myths, busted: Under thirty seconds is always safe.; If it's public, you can clip it.",
+      "music": "",
+      "status": "rendered_not_scheduled"
+    },
+    {
+      "id": "ap-069-habit-face-off",
+      "kind": "auto",
+      "topic": "Which habit makes better clips?: Check edits on your laptop vs Preview on your phone; Post a good clip today vs A perfect clip next week",
+      "music": "",
+      "status": "rendered_not_scheduled"
+    },
+    {
+      "id": "ap-070-editor-health-math",
+      "kind": "auto",
+      "topic": "Editor health rules of thumb: 20-20-20 eye break rule; 50/10 edit, then break; 1 day off every week",
+      "music": "",
+      "status": "rendered_not_scheduled"
+    },
+    {
+      "id": "ap-071-one-episode-week",
+      "kind": "auto",
+      "topic": "One podcast, a whole week of posts: Seven short clips; A quote card; A takeaways carousel",
+      "music": "",
+      "status": "rendered_not_scheduled"
+    },
+    {
+      "id": "ap-072-trend-myths",
+      "kind": "auto",
+      "topic": "Trend myths wasting your edits: Every trend fits your niche.; You're too late after day three.",
+      "music": "",
+      "status": "rendered_not_scheduled"
+    },
+    {
+      "id": "ap-073-clipper-choices-face-off",
+      "kind": "auto",
+      "topic": "Which move grows a clipper faster?: Argue with hate comments vs Pin your best comment; Buy a new camera vs Learn one new edit trick",
+      "music": "",
+      "status": "rendered_not_scheduled"
     }
-  ]
+  ],
+  "note_2026_11_15": "ap-063 to ap-073 rendered and pushed to auto/ but NOT scheduled: Metricool returned 'limit of 200 posts scheduled for the month'. Schedule these existing mp4s first once posting is possible. The 14 Nov run scheduled posts for 15-16 Nov but never pushed its history, so its topics are missing here."
 }
